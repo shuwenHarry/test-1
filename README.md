@@ -1,7 +1,7 @@
 ## *Question 1*
 <h2>Question 1</h2>
 
-[blog 1](./blog1)
+[blog 1](./blog1.md)
 
 ***sdf***
 
